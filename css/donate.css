@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#info{
+    height: 100vh;
+    width: 100vw;
+}
+ .row{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    /* padding: 15%;// */
+
+}
+img.child{
+    /* margin-left: auto; */
+    height: 100vh;
+    width: 95%;
+}
+
+.content{
+    align-items: center;
+    margin-right: 10%;
+    font-style: 'Montserrat-bold'; 
+     font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
